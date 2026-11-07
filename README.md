@@ -1,7 +1,7 @@
 # 📊 Projeto de BI Ponta a Ponta: SQL Server + Power BI
 
 ## 🔗 Links Úteis
-* 🚀 [Acesse o Dashboard Interativo Aqui](https://tinyurl.com)
+* 🚀 [Acesse o Dashboard Interativo Aqui](https://tinyurl.com/3rtmdzwr))
 
 ---
 
