@@ -47,4 +47,4 @@ Este ecossistema demonstra como a união de uma base sólida em SQL e uma format
 ## 👨‍💻 Sobre Mim
 Sigo em preparação constante e focado em conquistar minha primeira oportunidade como Analista de Dados Júnior! 
 
-📬 **Vamos nos conectar?** [Meu Perfil no LinkedIn](http://linkedin.com/in/lucas-henrique-godoy) *(Dica: substitua este link pelo seu link do LinkedIn)*
+📬 **Vamos nos conectar?** [Meu Perfil no LinkedIn](http://linkedin.com/in/lucas-henrique-godoy)
